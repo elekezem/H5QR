@@ -4660,7 +4660,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "http://118.195.144.42/H5QR/h5qr/PrintAgain.doreq_id=nGPsaHE2Txz_400000472887_==&xtptjybh=printyinhai/web/400000472887.pdf",
+    value: "http://118.195.144.42/H5QR/h5qr2/PrintAgain.doreq_id=nGPsaHE2Txz_400000472887_==&xtptjybh=printyinhai/web/400000472887.pdf",
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
